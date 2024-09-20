@@ -5,7 +5,7 @@ lasagne
 bonjour
 champignon
 rurelle
-canelle
+renard blanc
 manger
 salut
 branchement
