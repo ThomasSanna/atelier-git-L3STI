@@ -1,10 +1,12 @@
+
 ananas
 rue
 lasagne
 bonjour
 champignon
 rurelle
+canelle
 manger
-secouer
-salu
-t
+salut
+branchement
+automatique
